@@ -1,0 +1,19 @@
+[1]
+AppName=
+AppIcon=
+Summary=Updates Available
+Body=11 updates are available for your system
+Actions=default;;
+DesktopID=io.elementary.appcenter.desktop
+UnixTime=1604995767
+Sender=:1.65
+
+[2]
+AppName=
+AppIcon=
+Summary=Task finished
+Body=firefox
+Actions=
+DesktopID=io.elementary.terminal.desktop
+UnixTime=1604993384
+Sender=:1.62
